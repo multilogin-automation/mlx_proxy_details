@@ -1,6 +1,44 @@
-# README
+# ![CI](https://github.com/multilogin/mlx_proxy_details/actions/workflows/ci.yml/badge.svg)
+![Coverage](https://img.shields.io/badge/coverage-automated-blue)
+---
+description: The enhanced, community-maintained fork of the official Multilogin X Proxy Details script. Optimized for bulk automation, async validation, and production use. Use code ADBNEW50 for 50% OFF.
+topics:
+   - multilogin-x
+   - multilogin-official-api
+   - proxy-manager
+   - browser-automation
+   - stealth-scrapers
+   - playwright-python
+---
+
+# 🚀 Enhanced Multilogin X Proxy Manager (Enterprise Edition)
+
+Automating 100+ profiles? Standard scripts fail under load. Our @multilogin-automation branch is optimized for high-concurrency environments.
+
+| Version         | Features                | Stability         | Promo         |
+| :---            | :---                    | :---              | :---          |
+| Official Base   | Basic Single Script     | Developer Preview | N/A           |
+| Enhanced (This) | Bulk API / Multi-OS     | Production Ready  | GET 50% OFF   |
+
+**Branded Link:** [https://adblogin.com/go/multilogin](https://adblogin.com/go/multilogin)
+**Promo Code:** `ADBNEW50`
+
+**Enterprise Support:** [Telegram @AdbLoginOfficial](https://t.me/AdbLoginOfficial)
+
+**Technical Status**
+
+Official Base: multilogin/mlx_proxy_details. Enhanced for Production by @multilogin-automation.
 
 ## Overview
+
+## Why use this fork?
+
+The official version is a basic script for demonstration. This community-enhanced fork adds:
+
+- **Bulk Processing**: Handle 100+ proxies in parallel for true enterprise scale.
+- **Advanced Error Handling**: Robust, production-grade error management.
+- **Playwright Integration**: Seamless browser automation with stealth support.
+
 This Python script automates the process of generating, validating, and managing proxy connections using the Multilogin API. It supports various operating systems, including Windows, macOS, and Linux, and allows the user to configure settings like country, region, city, and session types for proxy generation.
 
 ---

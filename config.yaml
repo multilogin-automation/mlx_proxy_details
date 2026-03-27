@@ -1,0 +1,12 @@
+# Configuration for Enhanced Multilogin X Proxy Manager
+proxy_list:
+  - user:pass@1.2.3.4:1080
+  - user:pass@5.6.7.8:1080
+concurrency: 100
+playwright:
+  headless: true
+  browser: chromium
+  url_check: https://api.ipify.org
+logging:
+  level: INFO
+  file: logs/automation.log
